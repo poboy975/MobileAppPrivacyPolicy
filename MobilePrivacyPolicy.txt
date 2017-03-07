@@ -1,6 +1,6 @@
 PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
  
-This privacy policy governs your use of the software application Liquid Volume Calculator (“Application”) for mobile devices that was created by dbryant423. This app calculates the amount of liquid in various shaped and sized containers. 
+This privacy policy governs your use of the software application (“Application”) for mobile devices that was created by dbryant423. This app calculates the amount of liquid in various shaped and sized containers. 
  
 What information does the Application obtain and how is it used?
  
