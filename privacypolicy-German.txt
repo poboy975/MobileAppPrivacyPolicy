@@ -1,0 +1,52 @@
+DATENSCHUTZMODELL FÜR MOBILE ANWENDUNGEN
+ 
+Diese Datenschutzrichtlinie regelt Ihre Nutzung der Softwareanwendung ("Application") für mobile Geräte, die von dbryant423 erstellt wurde. Diese App berechnet die Menge an Flüssigkeit in verschiedenen geformten und großen Behältern.
+ 
+Welche Informationen erhält die Anwendung und wie wird sie verwendet?
+ 
+Vom Benutzer bereitgestellte Informationen
+Der Antrag erhält keine personenbezogenen Daten.
+
+Automatisch gesammelte Informationen
+ 
+Die Anwendung kann die ID des Gerätes sammeln
+ 
+ Führt die Anwendung genaue Echtzeit-Standortinformationen des Gerätes ein?
+ 
+Diese Anwendung sammelt keine genauen Informationen über den Standort Ihres Mobilgeräts.
+
+Diese Anwendung benötigt keinen Zugriff auf die Geräte-Speicherung.
+ 
+Dritte sehen und / oder haben Zugang zu den durch die Bewerbung erhaltenen Informationen?
+ 
+Nur aggregierte, anonymisierte Daten werden regelmäßig an externe Dienste übermittelt, um uns bei der Verbesserung der Anwendung und unserem Service zu helfen. Wir werden Ihre Informationen nur an Dritte weitergeben, soweit dies in dieser Datenschutzerklärung beschrieben ist.
+Wir können die vom Benutzer bereitgestellten und automatisch gesammelten Informationen offenlegen:
+Wie gesetzlich vorgeschrieben, um eine Vorladung oder ein ähnliches rechtliches Verfahren einzuhalten;
+Wenn wir an gutem Glauben glauben, dass die Offenlegung notwendig ist, um unsere Rechte zu schützen, Ihre Sicherheit zu schützen oder die Sicherheit anderer zu untersuchen, Betrug zu untersuchen oder auf eine Regierungsanforderung zu antworten;
+Mit unseren vertrauenswürdigen Dienstleistern, die in unserem Auftrag arbeiten, haben keine unabhängige Nutzung der Informationen, die wir ihnen offenlegen, und haben vereinbart, sich an die in dieser Datenschutzerklärung festgelegten Regeln zu halten.
+Wenn dbryant423 an einer Fusion, dem Erwerb oder dem Verkauf von allen oder einem Teil seines Vermögens beteiligt ist, werden Sie per E-Mail und / oder eine prominentere Mitteilung auf unserer Website über jede Änderung des Eigentums oder der Verwendung dieser Informationen sowie benachrichtigt Wie irgendwelche Entscheidungen, die Sie über diese Informationen haben können.
+ 
+ 
+Was sind meine Opt-out-Rechte?
+ 
+Sie können die gesamte Sammlung von Informationen durch die Anwendung einfach durch die Deinstallation der Anwendung zu stoppen. Sie können die Standard-Deinstallationsprozesse verwenden, die als Teil Ihres Mobilgeräts oder über den mobilen Anwendungsmarkt oder Netzwerk verfügbar sein können. Sie können auch per E-Mail an dbryant423@gmail.com abmelden.
+ 
+Datenaufbewahrungsrichtlinien, Verwalten Ihrer Informationen
+Wir behalten uns die von uns bereitgestellten Daten, solange Sie die Anwendung und eine angemessene Zeit danach verwenden. Wir werden automatisch gesammelte Informationen für bis zu 24 Monate behalten und danach können sie insgesamt agieren. Wenn Sie möchten, dass wir die von Ihnen zur Verfügung gestellten Daten über die Anwendung löschen, kontaktieren Sie uns bitte unter dbryant423@gmail.com und wir werden in einer angemessenen Zeit antworten. Bitte beachten Sie, dass einige oder alle von der Benutzer bereitgestellten Daten erforderlich sind, damit die Anwendung ordnungsgemäß funktioniert.
+ 
+Kinder
+ 
+Wir verwenden den Antrag nicht, um Daten unter dem Alter von 13 Jahren wissentlich zu erwerben oder zu vermarkten. Wenn ein Elternteil oder Erziehungsberechtigter sich bewusst wird, dass sein Kind uns ohne ihre Zustimmung mit Informationen versehen hat, sollte er uns bei dbryant423 kontaktieren @ Gmail.com Wir werden diese Informationen innerhalb einer angemessenen Frist aus unseren Akten löschen.
+ 
+Sicherheit
+ 
+Wir sind besorgt über die Wahrung der Vertraulichkeit Ihrer Informationen. Wir bieten physische, elektronische und prozedurale Schutzmaßnahmen zum Schutz von Informationen, die wir verarbeiten und pflegen. Zum Beispiel beschränken wir den Zugang zu diesen Informationen an autorisierte Mitarbeiter und Unternehmer, die diese Informationen kennen müssen, um unsere Anwendung zu betreiben, zu entwickeln oder zu verbessern. Bitte beachten Sie, dass, obwohl wir uns bemühen, eine angemessene Sicherheit für Informationen zu verarbeiten, die wir verarbeiten und pflegen, kein Sicherheitssystem alle möglichen Sicherheitsverletzungen verhindern kann.
+ 
+Änderungen
+Diese Datenschutzrichtlinie kann von Zeit zu Zeit aus irgendeinem Grund aktualisiert werden. Wir werden Sie über alle Änderungen unserer Datenschutzerklärung informieren, indem wir die neue Datenschutzerklärung (https://github.com/poboy975/MobileAppPrivacyPolicy/blob/master/MobilePrivacyPolicy.txt) einreichen und per E-Mail oder SMS benachrichtigen. Es wird empfohlen, diese Datenschutzerklärung regelmäßig auf Änderungen zu konsultieren, da die fortgesetzte Nutzung als Genehmigung für alle Änderungen gilt. Sie können den Verlauf dieser Richtlinie auf demselben Link überprüfen.
+ 
+Ihre Zustimmung
+Mit der Anwendung des Antrags erklären Sie sich damit einverstanden, dass wir Ihre Daten in dieser Datenschutzerklärung jetzt und in der von uns geänderten Fassung bearbeiten. "Verarbeiten" bedeutet das Verwenden von Cookies auf einem Computer / Handgerät oder die Verwendung oder Berührung von Informationen in irgendeiner Weise, einschließlich, aber nicht beschränkt auf Sammeln, Speichern, Löschen, Verwenden, Kombinieren und Weitergeben von Informationen, wobei alle Aktivitäten stattfinden In den Vereinigten Staaten.Wenn Sie außerhalb der Vereinigten Staaten wohnen, werden Ihre Daten übertragen, verarbeitet und dort gespeichert unter den Datenschutzbestimmungen der Vereinigten Staaten.
+ 
+Kontaktiere uns
+Wenn Sie irgendwelche Fragen bezüglich der Privatsphäre haben, während Sie die Anwendung verwenden oder Fragen zu unseren Praktiken haben, kontaktieren Sie uns bitte per Email an dbryant423@gmail.com

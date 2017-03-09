@@ -1,0 +1,52 @@
+MODELO DE POLÍTICA DE PRIVACIDAD PARA APLICACIONES MÓVILES
+ 
+Esta política de privacidad rige su uso de la aplicación de software ("Aplicación") para dispositivos móviles que fue creada por dbryant423. Esta aplicación calcula la cantidad de líquido en varios contenedores de forma y tamaño.
+ 
+¿Qué información obtiene la Solicitud y cómo se utiliza?
+ 
+Información proporcionada por el usuario
+La Solicitud no obtiene ninguna información personal.
+
+Información Recopilada Automáticamente
+ 
+La aplicación puede recopilar el id del dispositivo
+ 
+ ¿La aplicación recopila información precisa de ubicación en tiempo real del dispositivo?
+ 
+Esta aplicación no recopila información precisa sobre la ubicación de su dispositivo móvil.
+
+Esta aplicación no necesita acceso al almacenamiento del dispositivo.
+ 
+¿Tienen terceras personas acceso y / o acceso a la información obtenida por la Solicitud?
+ 
+Sólo los datos agregados y anónimos se transmiten periódicamente a servicios externos para ayudarnos a mejorar la Aplicación y nuestro servicio. Compartiremos su información con terceros solamente de la manera que se describe en esta declaración de privacidad.
+Podemos divulgar información proporcionada por el usuario y recopilada automáticamente:
+Según lo requerido por la ley, tal como para cumplir con una citación o proceso legal similar;
+Cuando creemos de buena fe que la divulgación es necesaria para proteger nuestros derechos, proteger su seguridad o la de terceros, investigar el fraude o responder a una solicitud del gobierno;
+Con nuestros proveedores de servicios de confianza que trabajan en nuestro nombre, no tienen un uso independiente de la información que les revelamos, y han acordado cumplir con las reglas establecidas en esta declaración de privacidad.
+Si dbryant423 está involucrado en una fusión, adquisición o venta de la totalidad o una parte de sus activos, se le notificará por correo electrónico y / o un aviso prominente en nuestro sitio Web de cualquier cambio en la propiedad o usos de esta información, así como Como cualquier elección que pueda tener con respecto a esta información.
+ 
+ 
+¿Cuáles son mis derechos de no participación?
+ 
+Puede detener toda la recopilación de información por la aplicación fácilmente desinstalando la aplicación. Puede utilizar los procesos de desinstalación estándar que pueden estar disponibles como parte de su dispositivo móvil o a través del mercado de aplicaciones móviles o de la red. También puede solicitar la exclusión por correo electrónico, en dbryant423@gmail.com.
+ 
+Política de retención de datos, administración de su información
+Retendremos los datos proporcionados por el usuario durante el tiempo que utilice la Aplicación y durante un tiempo razonable a partir de entonces. Reteneremos la información Recolectada Automáticamente durante un máximo de 24 meses y posteriormente la almacenaremos en forma agregada. Si desea que eliminemos los datos proporcionados por el usuario que ha proporcionado a través de la aplicación, póngase en contacto con nosotros en dbryant423@gmail.com y le responderemos en un plazo razonable. Tenga en cuenta que algunos o todos los datos proporcionados por el usuario pueden ser necesarios para que la aplicación funcione correctamente.
+ 
+Niños
+ 
+No utilizamos la Solicitud para solicitar datos o para venderlos a niños menores de 13 años. Si un padre o guardián se da cuenta de que su hijo nos ha proporcionado información sin su consentimiento, debe ponerse en contacto con nosotros en dbryant423 @ Gmail.com. Eliminaremos dicha información de nuestros archivos en un plazo razonable.
+ 
+Seguridad
+ 
+Nos preocupa proteger la confidencialidad de su información. Proporcionamos salvaguardas físicas, electrónicas y de procedimiento para proteger la información que procesamos y mantenemos. Por ejemplo, limitamos el acceso a esta información a empleados y contratistas autorizados que necesiten conocer esa información para operar, desarrollar o mejorar nuestra Aplicación. Tenga en cuenta que, aunque nos esforzamos por brindar una seguridad razonable para la información que procesamos y mantenemos, ningún sistema de seguridad puede prevenir todas las brechas de seguridad potenciales.
+ 
+Cambios
+Esta Política de Privacidad puede ser actualizada de vez en cuando por cualquier motivo. Le notificaremos de cualquier cambio en nuestra Política de privacidad publicando la nueva Política de privacidad (https://github.com/poboy975/MobileAppPrivacyPolicy/blob/master/MobilePrivacyPolicy.txt) e informándolo por correo electrónico o mensaje de texto. Se recomienda que consulte esta Política de privacidad regularmente para cualquier cambio, ya que se considera que la aprobación de todos los cambios es aprobada. Puede consultar el historial de esta política en el mismo enlace.
+ 
+Tu consentimiento
+Al usar la Aplicación, usted está consintiendo a nuestro procesamiento de su información como se establece en esta Política de Privacidad ahora y según enmendada por nosotros. "Procesamiento" significa usar cookies en una computadora / dispositivo de mano o usar o tocar información de cualquier manera, incluyendo, pero no limitado a, recopilar, almacenar, eliminar, usar, combinar y revelar información, todas las cuales tendrán lugar En los Estados Unidos Si usted reside fuera de los Estados Unidos su información será transferida, procesada y almacenada allí bajo las normas de privacidad de los Estados Unidos.
+ 
+Contáctenos
+Si tiene alguna pregunta relacionada con la privacidad mientras usa la Aplicación, o tiene preguntas sobre nuestras prácticas, póngase en contacto con nosotros por correo electrónico a dbryant423@gmail.com

@@ -1,0 +1,52 @@
+MODÈLE DE POLITIQUE DE CONFIDENTIALITÉ POUR LES APPLICATIONS MOBILES
+ 
+Cette politique de confidentialité régit votre utilisation de l'application logicielle ("Application") pour les périphériques mobiles créée par dbryant423. Cette application calcule la quantité de liquide dans différents conteneurs façonnés et dimensionnés.
+ 
+Quelles informations l'application obtient-elle et comment est-elle utilisée?
+ 
+Information fournie par l'utilisateur
+La demande n'obtient aucun renseignement personnel.
+
+Collecte automatique d'informations
+ 
+L'application peut recueillir l'identifiant du périphérique
+ 
+ L'application collecte-t-elle des informations précises sur l'emplacement en temps réel de l'appareil?
+ 
+Cette application ne collecte pas d'informations précises sur l'emplacement de votre appareil mobile.
+
+Cette application n'a pas besoin d'accéder au stockage du périphérique.
+ 
+Les tiers consultent-ils et / ou ont-ils accès aux informations obtenues par la demande?
+ 
+Seules les données agrégées et anonymes sont transmises périodiquement à des services externes pour nous aider à améliorer l'application et notre service. Nous ne partagerons vos informations avec des tiers que de la manière décrite dans cette déclaration de confidentialité.
+Nous pouvons divulguer des informations fournies par l'utilisateur et recueillies automatiquement:
+Comme l'exige la loi, de façon à se conformer à une assignation ou à une procédure judiciaire similaire;
+Lorsque nous croyons de bonne foi que la divulgation est nécessaire pour protéger nos droits, protéger votre sécurité ou la sécurité d'autrui, enquêter sur la fraude ou répondre à une demande du gouvernement;
+Avec nos fournisseurs de services de confiance qui travaillent en notre nom, n'ont pas un usage indépendant des informations que nous leur communiquons et avons accepté de respecter les règles énoncées dans la présente déclaration de confidentialité.
+Si dbryant423 est impliqué dans une fusion, une acquisition ou une vente de tout ou partie de ses actifs, vous serez informé par courriel et / ou par un avis important sur notre site Web de tout changement de propriétaire ou d'utilisation de ces informations, ainsi que Comme tout choix que vous pouvez avoir concernant cette information.
+ 
+ 
+Quels sont mes droits de non-participation?
+ 
+Vous pouvez arrêter toute collecte d'informations par l'application facilement en désinstallant l'application. Vous pouvez utiliser les processus de désinstallation standard qui peuvent être disponibles en tant que partie de votre appareil mobile ou via le marché des applications mobiles ou le réseau. Vous pouvez également demander à vous désabonner par courriel, à dbryant423@gmail.com.
+ 
+Politique de conservation des données, gestion de vos informations
+Nous conserverons les données fournies par l'utilisateur aussi longtemps que vous utiliserez la demande et pour une période raisonnable par la suite. Nous conserverons automatiquement les informations recueillies pendant 24 mois et, par la suite, nous les stockerons dans l'ensemble. Si vous souhaitez que nous supprimions les données fournies par l'utilisateur que vous avez fournies via la demande, veuillez nous contacter à dbryant423@gmail.com et nous vous répondrons dans un délai raisonnable. Veuillez noter que certaines ou toutes les données fournies par l'utilisateur peuvent être requises pour que l'application fonctionne correctement.
+ 
+Enfants
+ 
+Nous n'utilisons pas la demande pour solliciter sciemment des données ou des marchés pour des enfants de moins de 13 ans. Si un parent ou un tuteur se rend compte que son enfant nous a fourni des informations sans son consentement, il doit nous contacter à dbryant423 @ Gmail.com. Nous supprimerons ces informations de nos fichiers dans un délai raisonnable.
+ 
+Sécurité
+ 
+Nous sommes préoccupés par la protection de la confidentialité de vos informations. Nous fournissons des garanties physiques, électroniques et procédurales pour protéger l'information que nous traitons et maintenons. Par exemple, nous limitons l'accès à ces informations aux employés autorisés et aux entrepreneurs qui doivent connaître ces informations afin d'exploiter, de développer ou d'améliorer notre application. N'oubliez pas que, même si nous nous efforçons de fournir une sécurité raisonnable pour les informations que nous traitons et maintenons, aucun système de sécurité ne peut prévenir toutes les violations possibles de la sécurité.
+ 
+Changements
+Cette politique de confidentialité peut être mise à jour de temps à autre pour quelque raison que ce soit. Nous vous informerons de toute modification de notre politique de confidentialité en affichant la nouvelle politique de confidentialité (https://github.com/poboy975/MobileAppPrivacyPolicy/blob/master/MobilePrivacyPolicy.txt) et en vous informant par courrier électronique ou par message texte. Il est conseillé de consulter régulièrement cette politique de confidentialité pour tout changement, car l'utilisation continue est considérée comme une approbation de tous les changements. Vous pouvez vérifier l'historique de cette politique sur le même lien.
+ 
+Votre consentement
+En utilisant la demande, vous consentez au traitement de vos renseignements conformément à la présente politique de confidentialité, telle qu'amendée par nous. «Traitement» signifie utiliser des cookies sur un ordinateur ou un appareil portatif ou utiliser ou toucher de l'information de quelque façon que ce soit, y compris, mais sans s'y limiter, la collecte, le stockage, la suppression, l'utilisation, la combinaison et la divulgation d'informations, Aux États-Unis.Si vous résidez en dehors des États-Unis, vos informations seront transférées, traitées et stockées selon les normes de confidentialité des États-Unis.
+ 
+Contactez nous
+Si vous avez des questions concernant la confidentialité lors de l'utilisation de la demande ou si vous avez des questions sur nos pratiques, veuillez communiquer avec nous par courriel à dbryant423@gmail.com
